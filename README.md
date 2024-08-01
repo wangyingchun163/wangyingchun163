@@ -1,14 +1,10 @@
 ### Hi there 👋 I'm Yingchun Wang
-
-Here are some ideas to get you started:
-
 - 🏢 就职：深圳一家芯片供应链大数据公司
 - 💻 职责：运维开发工程师
 - 🌱 方向：全栈开发工程师，主攻运维开发
 - 💬 爱好：记录生活、学习及分享技能
 
 - Languages and Tools
-
 - 🤖 开发语言：Python、Go、Lua
 - 🕹 操作系统：CentOS、Ubuntu、Raspberry
 - 🐘 数据开发：Hadoop、Hive、Spark、Flume
